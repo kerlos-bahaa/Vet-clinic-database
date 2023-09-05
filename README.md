@@ -11,47 +11,28 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [curriculum-databases-projects-template](#curriculum-databases-projects-template)
+  - [Getting Started](#getting-started)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Vet clinic ](#-vet-clinic-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 
 # 📖 Vet clinic <a name="about-project"></a>
 
@@ -163,6 +144,13 @@ Example:
 - GitHub: [Kerlos bahaa](https://github.com/kerlos-bahaa)
 - LinkedIn: [Kerlos bahaa
 ](https://www.linkedin.com/in/kerlos-bahaa/)
+
+👤 **Marie-Grace Bahati**
+
+- GitHub: [@mariegrace31](https://github.com/mariegrace31)
+- Twitter: [@mariegracebmg](https://twitter.com/mariegracebmg)
+- LinkedIn: [Marie Grace Bahati](https://linkedin.com/in/marie-gr%C3%A2ce-bahati-546765224)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -179,9 +167,8 @@ Example:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+If you have suggestions 📝, ideas 🤔, or bug reports 🐛, please feel free to open an [issue](https://github.com/kerlos-bahaa/Vet-clinic-database/issues) on GitHub.
+Remember, every contribution, no matter how big or small, makes a difference.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
