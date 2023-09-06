@@ -14,14 +14,6 @@ FOREIGN KEY (patient_id) REFERENCES patients (id));
 
 CREATE INDEX patient_id_index ON medical_histories (patient_id);
 
-CREATE TABLE invoices (
-id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-total_amount DECIMAL ,
-generated_at TIMESTAMP,
-payed_at TIMESTAMP ,
-medical_history_id INT,
-FOREIGN KEY (medical_history_id) REFERENCES medical_histories (id));
-
 CREATE INDEX medical_histories__id_index ON invoices(medical_history_id);
 
 CREATE TABLE invoice_items (
