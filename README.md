@@ -2,8 +2,6 @@
 
 # 📗 Table of Contents
 
-- [curriculum-databases-projects-template](#curriculum-databases-projects-template)
-  - [Getting Started](#getting-started)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Vet clinic ](#-vet-clinic-)
   - [🛠 Built With ](#-built-with-)
@@ -12,10 +10,6 @@
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
