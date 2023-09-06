@@ -157,8 +157,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **[Add more animals database]**
-- **[Easy data retrieval]**
 - **[Efficient data management]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
