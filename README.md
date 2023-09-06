@@ -1,4 +1,3 @@
-# curriculum-databases-projects-template
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -28,7 +27,7 @@
 
 # 📖 Vet clinic <a name="about-project"></a>
 
-**Vet clinic** is a atabase is a collection of animal records that includes their name, date of birth, escape attempts, neutered status, and weight. It allows us to easily query and manage animal data for the clinic
+**Vet clinic** is a database collection of animal records that includes their name, date of birth, escape attempts, neutered status, and weight. It allows us to easily query and manage animal data for the clinic
 
 ## 🛠 Built With <a name="built-with"></a>
 
