@@ -35,8 +35,11 @@ FOREIGN KEY (invoice_id) REFERENCES invoices (id),
 FOREIGN KEY (treatment_id) REFERENCES treatments (id)
 );
 
+-- Create an index on invoice_id
+CREATE INDEX invoice_id_index ON invoice_items(invoice_id);
 
-CREATE INDEX invoice_treatment_id_index ON invoice_items(invoice_id, treatment_id);
+-- Create an index on treatment_id
+CREATE INDEX treatment_id_index ON invoice_items(treatment_id);
 
 CREATE TABLE treatments (
 id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
@@ -51,4 +54,8 @@ FOREIGN KEY (medical_histories_id) REFERENCES medical_histories (id),
 FOREIGN KEY (treatments_id) REFERENCES treatments(id)
 );
 
-CREATE INDEX medical_histories_treatment_id_index ON treatments_histories(medical_histories_id, treatments_id);
+-- Create an index on medical_histories_id
+CREATE INDEX medical_histories_id_index ON treatments_histories(medical_histories_id);
+
+-- Create an index on treatments_id
+CREATE INDEX treatment_id_index ON treatments_histories(treatments_id);
